@@ -6,3 +6,4 @@ public class MyClass {
     System.out.println(myObj.x);
   }
 }
+This project is a work in progress.
