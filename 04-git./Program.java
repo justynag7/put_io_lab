@@ -7,4 +7,4 @@ public class MyClass {
   }
 }
 This project is a work in progress.
-New commit branch
+New commit in new branch
