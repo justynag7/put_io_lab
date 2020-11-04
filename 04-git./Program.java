@@ -13,6 +13,7 @@ public class MyClass {
     System.out.println(myObj.u);
 ///zmiana w pliku 3
   }
+#zmiana schowek
 }
 This project is a work in progress.
 New commit in new branch
