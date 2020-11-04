@@ -3,7 +3,11 @@
 This project is a work in progress.
 New commit branch
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #zmiana do schowka
+=======
+#zmiana schowek
+>>>>>>> Stashed changes
 =======
 #zmiana schowek
 >>>>>>> Stashed changes
