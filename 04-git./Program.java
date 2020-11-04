@@ -1,4 +1,5 @@
-#komentarz
+#komentarz --do pliku
+#komentarz na poczatku pliku zad6
 public class MyClass {
   int x = 5;
   int y = 7;
@@ -9,6 +10,8 @@ public class MyClass {
     MyClass myObj = new MyClass();
     System.out.println(myObj.x);
     System.out.println(myObj.y);
+    System.out.println(myObj.u);
+///zmiana w pliku 3
   }
 }
 This project is a work in progress.
