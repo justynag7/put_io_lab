@@ -24,3 +24,4 @@ init new file
 new line
 new line1
 new line2
+zmiana do schowka
