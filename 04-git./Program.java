@@ -18,3 +18,6 @@ New code in this file
 #trzecia zmiana
 %$$$$$$$  
 init new file
+new line
+new line1
+new line2
