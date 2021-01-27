@@ -1,0 +1,2 @@
+średnia przepustowość dla założonej przez analityków konfiguracji: 2.0/sec
+rekomendowaną przez Ciebie liczbę drukarek z uzasadnieniem: 32 drukarki; 6.2/sec

@@ -1,0 +1,3 @@
+Średni czas odpowiedzi i przepustowość dla kodu bazowego: 4527; 60.0/min
+Zamina: obliczanie średniej tylko raz.
+Średni czas odpowiedzi i przepustowość dla kodu po modyfikacji: 3942; 1.1/sec
